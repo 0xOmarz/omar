@@ -1,5 +1,8 @@
 ---
+layout: post
 title: F Test
+tags: ["Bug-Bounty", "Bugs", "account-take-over"]
+categories: Web-Vulnerabilities
 ---
 
 # Big Title
