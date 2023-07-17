@@ -20,7 +20,7 @@ timezone:
 
 title: Omarz # the main title
 
-tagline: Nothing # it will display as the sub-title
+tagline: Nothing. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Nothing
